@@ -10,7 +10,7 @@
 <h2>😀 About me </h2>
 
 - 🔭 I’m currently working on an **E-Commerce Project**
-- 🌱 I’m currently learning **RTK query **
+- 🌱 I’m currently learning **RTK query**
 - 💬 Ask me about **React.js**
 - 📫 How to reach me **yashsingh1074@gmail.com**
 - 👨‍💻 All of my projects are available at **https://xymate.netlify.app/**
