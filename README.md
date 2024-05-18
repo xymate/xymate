@@ -62,13 +62,13 @@
 
 </div>
 <h2 align="left">Statistics</h2>
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymate&layout=compact&theme=vision-friendly-dark" alt=xymate />
+
+  <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xymate&theme=vision-friendly-dark" alt="xymate" /></p>
+  
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymate&layout=compact&theme=vision-friendly-dark" alt=xymate />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=xymate&show_icons=true&locale=en&theme=vision-friendly-dark" alt="xymate" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xymate&theme=vision-friendly-dark" alt="xymate" /></p>
-</div>
 
 
 
