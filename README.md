@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="40%" />
 <h1 align="center">Hey there 👋, I'm Yash Chauhan</h1>
 <h3 align="center">I am Full stack MERN developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xymate&label=Profile%20views&color=0e75b6&style=flat" alt="xymate" /> </p>
