@@ -18,11 +18,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xymate&theme=dark_lover" alt="xymate" /></a> </p>
 
-<h2>🔗 Connect with me </h2>
-<p align="left">
-<a size="1rem" href="https://linkedin.com/in/yash-chauhan-24feb03" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="yash-chauhan-24feb03" height="30" width="40" /></a><a href="https://www.leetcode.com/yashchauhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="yashchauhan04" height="30" width="40" /></a></p>
-
-
 
 <div>
   <h2>🛠️ My Skills</h2>
