@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1HDHLAy1NxknonlrPIUjBS&ust=1716124596719000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjO_sOkl4YDFQAAAAAdAAAAABAE)" width="100%" />
 <h1 align="center">Hey there 👋, I'm Yash Chauhan</h1>
 <h3 align="center">I am Full stack MERN developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xymate&label=Profile%20views&color=0e75b6&style=flat" alt="xymate" /> </p>
