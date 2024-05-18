@@ -1,4 +1,4 @@
-<p algin="center"> <img src="https://adelinyshka-presentation.netlify.app/img/jetpacktocat.png"  width="40%" /> </p>
+<p align="center"> <img src="https://adelinyshka-presentation.netlify.app/img/jetpacktocat.png"  width="40%" /> </p>
 <h1 align="center">Hey there 👋, I'm Yash Chauhan</h1>
 <h3 align="center">I am Full stack MERN developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xymate&label=Profile%20views&color=0e75b6&style=flat" alt="xymate" /> </p>
