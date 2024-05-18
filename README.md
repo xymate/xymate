@@ -65,9 +65,9 @@
 
   <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xymate&theme=vision-friendly-dark" alt="xymate" /></p>
   
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymate&layout=compact&theme=vision-friendly-dark" alt=xymate />
+<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymate&layout=compact&theme=vision-friendly-dark" alt=xymate /></p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=xymate&show_icons=true&locale=en&theme=vision-friendly-dark" alt="xymate" /></p>
+<p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=xymate&show_icons=true&locale=en&theme=vision-friendly-dark" alt="xymate" /></p>
 
 
 
