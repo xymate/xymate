@@ -18,14 +18,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xymate&theme=dark_lover" alt="xymate" /></a> </p>
 
-<h2>😀 Connect with me </h2>
+<h2>🔗 Connect with me </h2>
 <p align="left">
 <a size="1rem" href="https://linkedin.com/in/yash-chauhan-24feb03" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="yash-chauhan-24feb03" height="30" width="40" /></a><a href="https://www.leetcode.com/yashchauhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="yashchauhan04" height="30" width="40" /></a></p>
 
 
 
 <div>
-  <h2> My Skills</h2>
+  <h2>🛠️ My Skills</h2>
   <p align="left">
 <h3> Programming Languages </h3>
 <p>
@@ -61,7 +61,7 @@
 </p>
 
 </div>
-<h2 align="left">Statistics</h2>
+<h2 align="left">🧮 Statistics</h2>
 
   <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xymate&theme=vision-friendly-dark" alt="xymate" /></p>
   
@@ -72,13 +72,5 @@
 
 
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/xymate">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xymate&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xymate&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xymate&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xymate&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xymate&theme=2077" height="180em" />
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xymate&label=Profile%20views&color=0e75b6&style=flat" alt="xymate" /> </p>
